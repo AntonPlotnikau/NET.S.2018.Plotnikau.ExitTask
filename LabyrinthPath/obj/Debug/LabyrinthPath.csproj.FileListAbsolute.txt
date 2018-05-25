@@ -1,0 +1,6 @@
+E:\Task2\LabyrinthPath\bin\Debug\LabyrinthPath.dll
+E:\Task2\LabyrinthPath\bin\Debug\LabyrinthPath.pdb
+E:\Task2\LabyrinthPath\obj\Debug\LabyrinthPath.csprojResolveAssemblyReference.cache
+E:\Task2\LabyrinthPath\obj\Debug\LabyrinthPath.csproj.CoreCompileInputs.cache
+E:\Task2\LabyrinthPath\obj\Debug\LabyrinthPath.dll
+E:\Task2\LabyrinthPath\obj\Debug\LabyrinthPath.pdb
